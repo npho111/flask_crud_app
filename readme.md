@@ -8,7 +8,7 @@ Instalación:
     source venv/bin/activate
     pip install -r requirements.txt
 
-Utilizacion:
+Utilización:
 
     python3 app.py -run
 
