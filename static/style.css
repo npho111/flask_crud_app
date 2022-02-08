@@ -1,0 +1,23 @@
+
+body {
+  background-color: #222636;    
+  font-family: 'Roboto', sans-serif;
+  margin: 0px;
+  color: #ffffff;
+}
+
+.Calendario {
+  text-align: center;
+  background-color: #2f3447;
+  border-style: none;
+  border-radius: 55px;
+  color: #ffffff;
+  padding: 5px;
+  float: right;
+
+}
+
+.Calendario:hover {
+  background-color: #535b7a;
+  border-radius: 55px;
+}
